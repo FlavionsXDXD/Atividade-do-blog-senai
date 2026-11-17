@@ -1,0 +1,5 @@
+C:\Users\EBC8NL115\falviofuckvitin\obj\Debug\net10.0\InterfaceBlog.csproj.AssemblyReference.cache
+C:\Users\EBC8NL115\falviofuckvitin\obj\Debug\net10.0\InterfaceBlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBC8NL115\falviofuckvitin\obj\Debug\net10.0\InterfaceBlog.AssemblyInfoInputs.cache
+C:\Users\EBC8NL115\falviofuckvitin\obj\Debug\net10.0\InterfaceBlog.AssemblyInfo.cs
+C:\Users\EBC8NL115\falviofuckvitin\obj\Debug\net10.0\InterfaceBlog.csproj.CoreCompileInputs.cache
